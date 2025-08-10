@@ -12,20 +12,17 @@ To adopt Cascade Methodology means embracing and understanding both the benefits
 
 Here are the values of the Cascade Methodology:
 
-**Detailed specifications over vague user stories**  
-While user stories have value, AI requires comprehensive context to generate meaningful code.
-
 **Cross-disciplinary collaboration over siloed development**  
 While individual expertise is important, AI-ready specifications require input from requirements gatherers, designers, and software architects working together.
 
 **User validation over assumption-driven development**
 While technical implementation is important, AI-driven prototyping makes comprehensive user research and UX validation essential, rather than optional, first-class activities.
 
-**Risk-appropriate verification over continuous integration**  
-While continuous delivery is important, AI-generated code demands risk-appropriate validation gates.
-
 **Rapid experimentation over prolonged planning**  
-While initial spec work is necessary for context engineering, AI enables fast prototype-driven learning cycles.
+While initial spec work is necessary for context engineering, AI enables fast prototype-driven learning cycles that feed back into spec work.
+
+**Risk-scaled verification over uniform quality gates**
+While consistent quality standards are important, AI-generated code requires verification intensity that matches the entropy tolerance of the business process being supported.
 
 **Learning velocity over feature velocity**  
 While shipping features is a core goal, AI allows us to learn more per iteration safely.
