@@ -152,12 +152,6 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 
 ## Organizational Adoption
 
-### Team Structure
-- **Specification Architects**: Lead requirements engineering and AI context design
-- **Experimentation Leads**: Manage prototype generation and user research
-- **Implementation Coordinators**: Oversee AI-assisted production development
-- **Verification Specialists**: Execute entropy-appropriate quality assurance
-
 ### Cultural Requirements
 - Embrace iterative specification refinement
 - Value comprehensive experimentation
