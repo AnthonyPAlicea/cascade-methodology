@@ -18,14 +18,17 @@ While user stories have value, AI requires comprehensive context to generate mea
 **Cross-disciplinary collaboration over siloed development**  
 While individual expertise is important, AI-ready specifications require input from requirements gatherers, designers, and software architects working together.
 
-**Structured verification over continuous integration**  
+**User validation over assumption-driven development**
+While technical implementation is important, AI-driven prototyping makes comprehensive user research and UX validation essential, rather than optional, first-class activities.
+
+**Risk-appropriate verification over continuous integration**  
 While continuous delivery is important, AI-generated code demands risk-appropriate validation gates.
 
 **Rapid experimentation over prolonged planning**  
-While planning has value, AI enables fast prototype-driven learning cycles.
+While initial spec work is necessary for context engineering, AI enables fast prototype-driven learning cycles.
 
 **Learning velocity over feature velocity**  
-While shipping features matters, AI allows us to learn more per iteration safely.
+While shipping features is a core goal, AI allows us to learn more per iteration safely.
 
 ## Core Principles
 
@@ -48,7 +51,17 @@ AI acceleration enables testing larger feature sets and more complex interaction
 
 A cascade is a complete development cycle from specification to deployment, consisting of five phases:
 
-**SPEC** → **EXPERIMENT** → **IMPLEMENT** → **VERIFY** → **DEPLOY**
+```
+1. SPEC ←──────────────┐
+   ↓                   │
+2. EXPERIMENT ─────────┘
+   ↓
+3. IMPLEMENT
+   ↓
+4. VERIFY
+   ↓
+5. DEPLOY
+```
 
 ### Phase 1: Specification
 Creation of detailed requirements that serve as both human documentation and AI context. Specifications are hypotheses about user needs and technical solutions.
@@ -82,14 +95,14 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 **Porous Gates** (High Entropy Tolerance)
 - Marketing content and visual elements
 - Internal tools and dashboards
-- Prototype and experimental features
+- Experimental features
 - Non-critical user interface components
 
 **Medium Gates** (Medium Entropy Tolerance)
-- User-facing application features
-- Data processing and reporting systems
-- Workflow automation tools
 - Performance-sensitive components
+- Customer support ticket routing and responses
+- Product recommendation engines
+- User onboarding workflows
 
 **Dense Gates** (Low Entropy Tolerance)
 - Financial transaction processing
