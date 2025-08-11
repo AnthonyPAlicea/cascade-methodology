@@ -18,7 +18,7 @@ While individual expertise is important, AI-ready specifications require input f
 **User validation over assumption-driven development**
 While technical implementation is important, AI-driven prototyping makes comprehensive user research and UX validation essential, rather than optional, first-class activities.
 
-*Problems over features*
+**Problems over features**
 While feature delivery is important, solving underlying user problems often requires less software than anticipated, and AI can reveal simpler solutions.
 
 **Rapid experimentation over prolonged planning**  
