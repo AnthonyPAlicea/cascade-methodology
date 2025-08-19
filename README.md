@@ -8,6 +8,8 @@ Cascades are rapid AI-driven development cycles that flow from detailed specific
 
 To adopt Cascade Methodology means embracing and understanding both the benefits and the dangers of AI-assisted development, and using it to your greatest advantage.
 
+For a long-form blog post on Cascade Methodology (see here)[https://tonyalicea.dev/blog/cascade-methodology].
+
 ## Guiding Principles
 
 Here are the 7 guiding principles of Cascade Methodology:
