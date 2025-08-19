@@ -86,65 +86,13 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 - Regulatory compliance features
 - Safety-critical functionality
 
-## Implementation Guidelines
-
-### Cascade Planning
-1. Define the problem domain and success criteria
-2. Assess entropy tolerance of affected business processes
-3. Estimate team verification capacity for required gate density
-4. Scope features within verification constraints
-5. Establish timeline expectations
-
-### Specification Requirements
-- Business context and user needs rationale
-- Functional requirements with edge case considerations
-- Technical constraints and architectural guidelines
-- Data requirements and privacy considerations
-- Success metrics and validation criteria
-
-### Experimentation Standards
-- Interactive prototypes with realistic data
-- Structured user research methodologies
-- Stakeholder feedback collection processes
-- Technical feasibility validation
-- Hypothesis testing and learning documentation
-
-### Verification Standards
-- Code quality review processes
-- Security vulnerability assessment
-- Performance and scalability testing
-- Compliance and regulatory validation
-- User acceptance testing protocols
-
-## Success Metrics
-
-### Velocity Metrics
-- Cascade completion frequency
-- Features delivered per time period
-- Time from specification to deployment
-
-### Quality Metrics
-- Defect rates by entropy tolerance category
-- Verification gate pass/fail rates
-- Post-deployment issue frequency
-
-### Learning Metrics
-- Hypotheses validated per cascade
-- User research insights generated
-- Technical discoveries and dependencies identified
-
-### Efficiency Metrics
-- Specification accuracy and completeness
-- Verification capacity utilization
-- AI generation quality and reliability
-
 ## Organizational Adoption
 
 ### Cultural Requirements
+- Embrace "problems to be solved" (MSP) over features (MVP)
 - Embrace iterative specification refinement
-- Value comprehensive experimentation
+- Value experimentation and user research
 - Accept AI collaboration with appropriate skepticism
-- Prioritize learning velocity over feature delivery speed
 
 ### Prerequisites
 - AI development tool integration
