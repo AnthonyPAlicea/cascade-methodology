@@ -10,25 +10,14 @@ To adopt Cascade Methodology means embracing and understanding both the benefits
 
 ## Values
 
-Here are the values of the Cascade Methodology:
-
-**Cross-disciplinary collaboration over siloed development**  
-While individual expertise is important, AI-ready specifications require input from requirements gatherers, designers, and software architects working together.
-
-**User validation over assumption-driven development**
-While technical implementation is important, AI-driven prototyping makes comprehensive user research and UX validation essential, rather than optional, first-class activities.
-
-**Problems over features**
-While feature delivery is important, solving underlying user problems often requires less software than anticipated, and AI can reveal simpler solutions.
-
-**Rapid experimentation over prolonged planning**  
-While initial spec work is necessary for context engineering, AI enables fast prototype-driven learning cycles that feed back into spec work.
-
-**Risk-scaled verification over uniform quality gates**
-While consistent quality standards are important, AI-generated code requires verification intensity that matches the entropy tolerance of the business process being supported.
-
-**Learning velocity over feature velocity**  
-While shipping features is a core goal, AI allows us to learn more per iteration safely.
+Here are the 7 guiding principles of Cascade Methodology:
+1. Understand the underlying user and business problems the software should solve.
+1. Build the least amount of software possible to solve those problems.
+1. Everyone has a seat at the table in writing specs.
+1. Prototyping and user research are first-class citizens.
+1. AI-generated code is not to be trusted.
+1. The density of code quality checks needed to deploy code is a function of the entropy tolerance of the business process the code is supporting.
+1. Scope and timelines are functions of entropy tolerance and understanding the problems to be solved.
 
 ## Core Principles
 
