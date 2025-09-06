@@ -2,13 +2,14 @@
 
 ## Definition
 
-Cascade Methodology is an effort to leverage AI-Assisted Software Development in a modern SDLC, taking advantage of LLM benefits, and mitigating LLM risks.
+Cascade Methodology is replacement for software development methodologies like Agile and Waterfall in the age of AI. It is designed to leverage AI-Assisted Software Development in a modern SDLC, taking advantage of LLM benefits, and mitigating LLM risks.
 
-Cascades are rapid AI-driven development cycles that flow from detailed specifications through interactive prototypes to production code, with verification gates that scale based on business risk tolerance.
+Cascades are rapid AI-driven development cycles that flow from detailed specifications through interactive prototypes to production code, with verification gates that scale based on business risk (entropy) tolerance.
 
 To adopt Cascade Methodology means embracing and understanding both the benefits and the dangers of AI-assisted development, and using it to your greatest advantage.
 
-For a long-form blog post on Cascade Methodology [see here](https://tonyalicea.dev/blog/cascade-methodology).
+## Learn More
+- For a long-form blog post on Cascade Methodology [see here](https://tonyalicea.dev/blog/cascade-methodology).
 
 ## Guiding Principles
 
