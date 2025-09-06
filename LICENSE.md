@@ -14,4 +14,4 @@ This repository contains two categories of content:
 
 ---
 
-For questions about usage or permissions, please contact [your email/contact link].
+For questions about usage or permissions, please contact [Tony Alicea](mailto:hey@tonyalicea.dev).
