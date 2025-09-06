@@ -1,19 +1,17 @@
 # License
 
-This repository contains two different types of content:
+This repository contains two categories of content:
 
-1. **Book Content (in `/book/`)**
-   - Licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
-   - You are free to share and adapt this material for non-commercial purposes, with attribution.
-   - Commercial use (including resale or redistribution for profit) is not permitted without permission.
+1. **Book Content (`/book/`)**
+   - © 2025 Anthony P. Alicea. All Rights Reserved.
+   - Provided here for reading and discussion purposes only.
+   - You may not redistribute, copy, or republish the book content without explicit written permission.
+   - The published book will be available for purchase separately.
 
-   Full license: https://creativecommons.org/licenses/by-nc/4.0/
-
-2. **Code, Examples, and Templates (outside `/book/`)**
-   - Licensed under the **MIT License**.
-   - You are free to use, copy, modify, merge, publish, and distribute this content with attribution.
-   - This encourages adoption of the Cascade Methodology in real projects.
+2. **Examples, Specs, and Templates (`/examples/`, `/templates/`, etc.)**
+   - Licensed under the MIT License.
+   - Permission is granted to use, copy, modify, and distribute these files for any purpose, with attribution.
 
 ---
 
-© 2025 Tony Alicea. All rights reserved where applicable.
+For questions about usage or permissions, please contact [your email/contact link].
