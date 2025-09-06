@@ -1,15 +1,19 @@
-# Creative Commons Attribution 4.0 International (CC BY 4.0)
+# License
 
-Cascade Methodology © 2025 Anthony Alicea
+This repository contains two different types of content:
 
-You are free to:
+1. **Book Content (in `/book/`)**
+   - Licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+   - You are free to share and adapt this material for non-commercial purposes, with attribution.
+   - Commercial use (including resale or redistribution for profit) is not permitted without permission.
 
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+   Full license: https://creativecommons.org/licenses/by-nc/4.0/
 
-Under the following terms:
+2. **Code, Examples, and Templates (outside `/book/`)**
+   - Licensed under the **MIT License**.
+   - You are free to use, copy, modify, merge, publish, and distribute this content with attribution.
+   - This encourages adoption of the Cascade Methodology in real projects.
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
-  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+---
 
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+© 2025 Tony Alicea. All rights reserved where applicable.
