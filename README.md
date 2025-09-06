@@ -12,7 +12,7 @@ To adopt Cascade Methodology means embracing and understanding both the benefits
 - For a long-form blog post on Cascade Methodology [see here](https://tonyalicea.dev/blog/cascade-methodology).
 
 ## Discuss
-- Discuss implementing Cascade Methodology with others [here in this repo](/discussions).
+- Discuss implementing Cascade Methodology with others [here in this repo](https://github.com/AnthonyPAlicea/cascade-methodology/discussions).
 
 ## Guiding Principles
 
