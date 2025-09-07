@@ -6,10 +6,15 @@ Cascade Methodology is replacement for software development methodologies like A
 
 Cascades are rapid AI-driven development cycles that flow from detailed specifications through interactive prototypes to production code, with verification gates that scale based on business risk (entropy) tolerance.
 
+It includes concepts such as Minimum Solved Problems, a problem-focused replacement for MVP, LLM-generated prototypes and user research as first-class citizens, and an awareness at all levels that AI requires good context to generate useful code, but at the same time that code can never be truly trusted.
+
 To adopt Cascade Methodology means embracing and understanding both the benefits and the dangers of AI-assisted development, and using it to your greatest advantage.
 
 ## Learn More
-- For a long-form blog post on Cascade Methodology [see here](https://tonyalicea.dev/blog/cascade-methodology).
+- [Blog post on Cascade Methodology](https://tonyalicea.dev/blog/cascade-methodology) - a long-form introduction.  
+- [Book drafts](./book) - being written in the open here in this repo.  
+- [Work with Tony Alicea](https://tonyalicea.dev/work-with-me/) - inquiries about workshops, consultation, and education.  
+
 
 ## Discuss
 - Discuss implementing Cascade Methodology with others [here in this repo](https://github.com/AnthonyPAlicea/cascade-methodology/discussions).
