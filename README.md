@@ -14,7 +14,7 @@ To adopt Cascade Methodology means embracing and understanding both the benefits
 - [Blog post on Cascade Methodology](https://tonyalicea.dev/blog/cascade-methodology) - a long-form introduction. 
 - [Blog post on the 'Why Down' method and MSP](https://tonyalicea.dev/blog/on-the-why-down/)
 - [Blog post on Entropy Tolerance](https://tonyalicea.dev/blog/entropy-tolerance-ai/)  
-- [Book drafts](./book) - being written in the open here in this repo.  
+- [Book draft](./book) - being written in the open here in this repo.  
 - [Work with Tony Alicea](https://tonyalicea.dev/work-with-me/) - inquiries about workshops, consultation, and education.  
 
 
