@@ -22,13 +22,13 @@ To adopt Cascade Methodology means embracing and understanding both the benefits
 ## Guiding Principles
 
 Here are the 7 guiding principles of Cascade Methodology:
-1. Understand the underlying user and business problems the software should solve.
-1. Build the least amount of software possible to solve those problems.
-1. Everyone has a seat at the table in writing specs.
-1. Prototyping and user research are first-class citizens.
-1. AI-generated code is not to be trusted.
-1. The density of code quality checks needed to deploy code is a function of the entropy tolerance of the business process the code is supporting.
-1. Scope and timelines are functions of entropy tolerance and understanding the problems to be solved.
+1. Everyone has a seat at the table in writing specs.  
+2. Understand the underlying user and business problems the software should solve.  
+3. Build the least amount of software possible to solve those problems.  
+4. Prototyping and user research are first-class citizens.  
+5. AI-generated code is not to be trusted.  
+6. The density of code quality checks needed to deploy code is a function of the entropy tolerance of the business process the code is supporting.  
+7. Scope and timelines are functions of entropy tolerance and understanding the problems to be solved.
 
 ## The Cascade Structure
 
