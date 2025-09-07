@@ -11,7 +11,9 @@ It includes concepts such as Minimum Solved Problems, a problem-focused replacem
 To adopt Cascade Methodology means embracing and understanding both the benefits and the dangers of AI-assisted development, and using it to your greatest advantage.
 
 ## Learn More
-- [Blog post on Cascade Methodology](https://tonyalicea.dev/blog/cascade-methodology) - a long-form introduction.  
+- [Blog post on Cascade Methodology](https://tonyalicea.dev/blog/cascade-methodology) - a long-form introduction. 
+- [Blog post on the 'Why Down' method and MSP](https://tonyalicea.dev/blog/on-the-why-down/)
+- [Blog post on Entropy Tolerance](https://tonyalicea.dev/blog/entropy-tolerance-ai/)  
 - [Book drafts](./book) - being written in the open here in this repo.  
 - [Work with Tony Alicea](https://tonyalicea.dev/work-with-me/) - inquiries about workshops, consultation, and education.  
 
@@ -63,6 +65,7 @@ Risk-appropriate quality assurance based on the entropy tolerance of the support
 Release of verified code through established deployment pipelines. Teams should implement Verified Integration / Continuous Deployment (VI/CD), where only code that passes entropy-appropriate verification gates is integrated and deployed.
 
 ## Entropy Tolerance Framework
+Recognizing that AI code is fundamentally untrustworthy requires a metric to then safely determine the dangers of 'vibe coding' a feature.
 
 ### Definition
 Entropy tolerance measures how much uncertainty a business process can safely accommodate from AI-generated solutions.
@@ -75,6 +78,7 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 - **Financial risk** exposure
 
 ### Verification Gate Types
+Generated code requires a degree of verification relative to the entropy tolerance of the underlying process the code is supporting.
 
 **Porous Gates** (High Entropy Tolerance)
 - Marketing content and visual elements
@@ -96,6 +100,9 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 - Safety-critical functionality
 
 ## Organizational Adoption
+Shifting organizational culture where needed is a challenge of it's own, so Cascade Methodology includes recommendations on how to accomplish it.
+
+Here are some culture and support goals to successfully implement the methodology:
 
 ### Cultural Requirements
 - Embrace "problems to be solved" (MSP) over features (MVP)
@@ -110,7 +117,6 @@ Entropy tolerance measures how much uncertainty a business process can safely ac
 - Flexible verification processes
 
 ## Conclusion
-
 Cascade Methodology recognizes that large language models fundamentally change software development economics. By structuring development around AI strengths while mitigating AI risks through entropy-scaled verification, teams can achieve both higher learning velocity and appropriate quality assurance.
 
-This methodology serves teams seeking to harness AI capabilities responsibly while maintaining software quality and business risk management.
+Cascades serve teams seeking to harness AI capabilities responsibly while maintaining software quality and business risk management.
