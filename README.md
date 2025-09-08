@@ -63,7 +63,37 @@ Risk-appropriate quality assurance based on the entropy tolerance of the support
 ### Phase 5: Deployment
 Release of verified code through established deployment pipelines. Teams should implement Verified Integration / Continuous Deployment (VI/CD), where only code that passes entropy-appropriate verification gates is integrated and deployed.
 
-## Entropy Tolerance Framework
+## Key Concept: Why Down and Minimum Solved Problems (MSP)
+
+Defining what to build begins with understanding the underlying problems rather than jumping to solutions.  
+The **Why Down** technique reduces proposed solutions into root problem statements, and the **Minimum Solved Problems (MSP)** framework ensures each release addresses the smallest set of real problems possible.
+
+### Definition
+- **Why Down:** A structured process of repeatedly asking "why?" to distill proposed features or requests into the true underlying problem.  
+- **MSP:** A release strategy that focuses on solving the minimum set of problems necessary, instead of delivering a “minimum viable product” defined by feature lists.
+
+### Assessment Criteria
+- **Clarity of problem statements**: Does the statement avoid prescribing a solution?  
+- **Cross-disciplinary input**: Were multiple “seats at the table” involved in defining the problems and solutions?  
+- **Problem prioritization**: Which problems, if left unsolved, block meaningful progress?
+- **Scope reduction**: Does the MSP shrink to the least software needed?  
+- **Business alignment**: Do the chosen problems reflect real user and organizational needs?
+
+### Example
+- **MVP approach:** “We need to send email summaries of data to users.”  
+- **MSP approach:**  
+  - Problem: Users need a fast way to share data.  
+  - Solution: Add a **Share button** to data screens that generates unique URLs. Less software, same problem solved.
+
+### Benefits
+- Provides strong context for LLM generation.
+- Reduces scope creep by focusing on problems, not features. 
+- Reduced scope shrinks LLM context window usage, improving reliability of code generation. 
+- Builds team alignment by involving all disciplines in defining problems.  
+- Encourages simpler, faster solutions that avoid unnecessary complexity.  
+- Improves user satisfaction by solving real needs from the first release.  
+
+## Key Concept: Entropy Tolerance
 Recognizing that AI code is fundamentally untrustworthy requires a metric to then safely determine the dangers of 'vibe coding' a feature.
 
 ### Definition
