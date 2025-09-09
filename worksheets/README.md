@@ -5,4 +5,4 @@ Here you can find worksheets to assist in carrying out core Cascade Methdology a
 ## Worksheets
 
 ### Phase 1 (Spec) Worksheets
-- [Why Down](https://github.com/AnthonyPAlicea/cascade-methodology/) 
+- [Why Down](https://github.com/AnthonyPAlicea/cascade-methodology/blob/main/worksheets/Cascade_WhyDown_Worksheet.pdf) 
