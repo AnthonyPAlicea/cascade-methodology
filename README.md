@@ -72,6 +72,8 @@ The **Why Down** technique reduces proposed solutions into root problem statemen
 - **Why Down:** A structured process of repeatedly asking "why?" to distill proposed features or requests into the true underlying problem.  
 - **MSP:** A release strategy that focuses on solving the minimum set of problems necessary, instead of delivering a “minimum viable product” defined by feature lists.
 
+The Agile manifesto says that "working software is the primary measure of progress". In Cascade Methodology, we say that "problems solved is the primary measure of progress". Even if no software is created!
+
 ### Assessment Criteria
 - **Clarity of problem statements**: Does the statement avoid prescribing a solution?  
 - **Cross-disciplinary input**: Were multiple “seats at the table” involved in defining the problems and solutions?  
