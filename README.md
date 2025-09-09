@@ -147,6 +147,18 @@ Here are some culture and support goals to successfully implement the methodolog
 - Risk assessment frameworks
 - Flexible verification processes
 
+## Velocity and Estimation
+In Cascade Methodology, velocity is *"the number of problems solved within a time period."*
+
+- Estimation is a potential time waster and morale reducer. Instead of story points, you can classify effort at a high level based on entropy tolerance.
+- Most teams' approach to scrum activities is just time wasting. Better to spend that time in problem/spec writing and user research.
+- Doing spec writing and user research means you have more upfront time, and less coding time with LLM assistance. This is a dramatically different mindset from the past, as it has the feel of Waterfall but the speed of Agile.
+
+## Are We Building the Right Thing?
+Cascade Methodology does not believe that meeting cadence is the most important gateway to software success, but problem definition and user research is.
+
+Asking the question "are we building the right thing" happens in *every* Cascade. It's an intrinsic part of the process and you get a massive amount of information from user research (and cognitive walkthroughs which can be done without user research) which is done continuously.
+
 ## Conclusion
 Cascade Methodology recognizes that large language models fundamentally change software development economics. By structuring development around AI strengths while mitigating AI risks through entropy-scaled verification, teams can achieve both higher learning velocity and appropriate quality assurance.
 
