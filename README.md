@@ -150,14 +150,16 @@ Here are some culture and support goals to successfully implement the methodolog
 ## Velocity and Estimation
 In Cascade Methodology, velocity is *"the number of problems solved within a time period."*
 
-- Estimation is a potential time waster and morale reducer. Instead of story points, you can classify effort at a high level based on entropy tolerance.
-- Most teams' approach to scrum activities is just time wasting. Better to spend that time in problem/spec writing and user research.
-- Doing spec writing and user research means you have more upfront time, and less coding time with LLM assistance. This is a dramatically different mindset from the past, as it has the feel of Waterfall but the speed of Agile.
+Traditional estimation practices (story points, detailed task sizing, poker sessions) are potential time wasters and morale reducers. Instead of focusing on numeric guesswork, teams classify effort at a high level based on entropy tolerance (how much uncertainty and risk they’re willing to accept).
+
+Most Scrum ceremonies around estimation are overhead. That time is better spent on problem and spec writing and on user research. With Cascade, teams shift more effort upfront, clarifying problems and refining specs, so that coding time is reduced and accelerated through LLM assistance. The mindset feels superficially like Waterfall, but the speed and adaptability are closer to Agile.
 
 ## Are We Building the Right Thing?
-Cascade Methodology does not believe that meeting cadence is the most important gateway to software success, but problem definition and user research is.
+Cascade Methodology rejects the idea that meeting cadence is the key to software success. The real gateway is problem definition and user research.
 
-Asking the question "are we building the right thing" happens in *every* Cascade. It's an intrinsic part of the process and you get a massive amount of information from user research (and cognitive walkthroughs which can be done without user research) which is done continuously.
+Every Cascade includes the core questions: *does this problem need to be solved with software* and, if so, *are we building the right thing?* 
+
+Answering these requires continuous user research and cognitive walkthroughs that can be performed even without direct users. By embedding this check into every cycle, teams generate a constant stream of insight and feedback, keeping focus on solving the right problems, not just delivering features.
 
 ## Conclusion
 Cascade Methodology recognizes that large language models fundamentally change software development economics. By structuring development around AI strengths while mitigating AI risks through entropy-scaled verification, teams can achieve both higher learning velocity and appropriate quality assurance.
