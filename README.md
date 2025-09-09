@@ -150,7 +150,7 @@ Here are some culture and support goals to successfully implement the methodolog
 ## Velocity and Estimation
 In Cascade Methodology, velocity is *"the number of problems solved within a time period."*
 
-Traditional estimation practices (story points, detailed task sizing, poker sessions) are potential time wasters and morale reducers. Instead of focusing on numeric guesswork, teams classify effort at a high level based on entropy tolerance (how much uncertainty and risk they’re willing to accept).
+Traditional estimation practices (story points, detailed task sizing, poker sessions) are potential time wasters and morale reducers. Instead of focusing on numeric guesswork, teams classify effort at a high level based on Entropy Tolerance.
 
 Most Scrum ceremonies around estimation are overhead. That time is better spent on problem and spec writing and on user research. With Cascade, teams shift more effort upfront, clarifying problems and refining specs, so that coding time is reduced and accelerated through LLM assistance. The mindset feels superficially like Waterfall, but the speed and adaptability are closer to Agile.
 
