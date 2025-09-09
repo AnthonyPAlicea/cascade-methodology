@@ -8,7 +8,7 @@ This repository contains two categories of content:
    - You may not redistribute, copy, or republish the book content without explicit written permission.
    - The published book will be available for purchase separately.
 
-2. **Examples, Specs, and Templates (`/examples/`, `/templates/`, etc.)**
+2. **Examples, Worksheets, and Templates (`/worksheets/`, `/templates/`, etc.)**
    - Licensed under the MIT License.
    - Permission is granted to use, copy, modify, and distribute these files for any purpose, with attribution.
 
