@@ -31,6 +31,7 @@
 - Estimation Is Guesswork
 - Problems Solved Is Velocity
 - Scope and Timelines
+- Team Cascades
 ### Organizational Adoption
 - How To Change Your Organizational Culture
 - User Research Is A Secret Weapon
